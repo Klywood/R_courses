@@ -1,4 +1,4 @@
-setwd("C:/Users/User/Desktop/proj/R_lang")
+setwd("C:/Users/User/Desktop/proj/R_lang/Data analysis in R_part1/")
 
 
 df <-  read.csv('grants.csv')
